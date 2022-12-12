@@ -24,3 +24,16 @@ médailles
 
 Mardi : Histoires, élements. Soir finir
 Mercredi : Présentations 
+
+## Mardi 
+country orga = country home Sinon visiteur
+
+Poids dico or : 30 argent : 20 bronze : 10 sans : 0
+
+
+ Calculer le nombre de médailles par pays = a
+
+Et pour chaque année nombre or ect 
+
+
+c = a/b
